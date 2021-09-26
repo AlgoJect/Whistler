@@ -3924,7 +3924,7 @@ html.no-csstransitions .s-hero__content {
 @media screen and (max-width: 800px) {
     .s-hero__content {
         padding-bottom: 8vh;
-        top: -20%%;
+        top: -20%;
     }
     .s-hero__content h1::before {
         -webkit-transform: translateX(0);
@@ -5109,3 +5109,20 @@ html.no-csstransitions .s-hero__content {
     text-decoration: none;
     color: black;
   }
+
+  /* ------------------------------------------------------------------- 
+ * responsive:
+ * showonmob
+ * ------------------------------------------------------------------- */
+
+ @media screen and (min-width: 600px) {
+    #showonmob {
+      visibility: hidden;
+    }
+  }
+
+
+
+  /* test file 102.. badhon ei lekha dekhle pore kick maris..
+   kick in 3.. 2.. 1..
+   kicked
