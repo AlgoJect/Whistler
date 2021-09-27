@@ -36,3 +36,7 @@
 
 Distributed under the GNU Affero General Public License v3.0
 See `LICENSE` for more information.
+
+`# COURTESY
+
+Huge shout out to [Styleshout](https://www.styleshout.com/) for providing us a stunning template.`
