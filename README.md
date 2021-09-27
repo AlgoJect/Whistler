@@ -31,3 +31,8 @@
  - Code Prettify (https://github.com/google/code-prettify)
  - Lity (https://sorgalla.com/lity/)
 ```
+
+# LICENSE
+
+Distributed under the GNU Affero General Public License v3.0
+See `LICENSE` for more information.
