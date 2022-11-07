@@ -1,3 +1,13 @@
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+
 <!-- PROJECT LOGO -->
 <br>
 <p align="center">
@@ -65,3 +75,18 @@ See `LICENSE` for more information.
 # COURTESY
 
 Huge shout out to [Styleshout](https://www.styleshout.com/) for providing us a stunning template.
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[forks-shield]: https://img.shields.io/github/forks/AlgoJect/Whistler?style=for-the-badge
+[forks-url]: https://github.com/AlgoJect/Whistler/network/members
+[stars-shield]: https://img.shields.io/github/stars/AlgoJect/Whistler?style=for-the-badge
+[stars-url]: https://github.com/AlgoJect/Whistler/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AlgoJect/Whistler?style=for-the-badge
+[issues-url]: https://github.com/AlgoJect/Whistler/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/algoject/
