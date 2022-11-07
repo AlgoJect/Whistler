@@ -1,3 +1,28 @@
+<!-- PROJECT LOGO -->
+<br>
+<p align="center">
+  <a href="https://github.com/AlgoJect/Whistler">
+    <img src="./images/about-photo.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Whistler</h3>
+
+  <p align="center">
+     View the records about the intensity of sound inside the Dhaka Metropolitan Area!
+    <br>
+    <a href="https://github.com/AlgoJect/Whistler"><strong>Explore the docs »</strong></a>
+    <br>
+    <br>
+    <a href="https://github.com/AlgoJect/Whistler">View Demo</a>
+    ·
+    <a href="https://github.com/AlgoJect/Whistler/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/AlgoJect/Whistler/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/AlgoJect/Whistler/pulls">Send a Pull Request</a>
+  </p>
+</p>
+
 # SOURCES AND CREDITS
 
 ### The AlgoJect Team used the following resources as listed.
